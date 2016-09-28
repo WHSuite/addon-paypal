@@ -1,0 +1,35 @@
+{
+    "name": "English",
+    "slug": "en",
+    "is_active": "1",
+    "language_code": "en",
+    "text_direction": "LTR",
+    "addon": "paypal",
+    "Strings": [
+        {
+            "slug": "paypal_settings",
+            "text": "Paypal Settings"
+        },
+        {
+            "slug": "paypal_client_id",
+            "text": "Paypal Oauth Client ID"
+        },
+        {
+            "slug": "paypal_secret_code",
+            "text": "Paypal Oauth Secret"
+        },
+        {
+            "slug": "paypal_testmode",
+            "text": "Paypal Testmode"
+        },
+        {
+            "slug": "paypal_webprofile",
+            "text": "Paypal Web Profile"
+        },
+        {
+            "slug": "paypal_webprofile_desc",
+            "text": "The web profile will be automically generated. Remove any value here if you update your installation name or logo and the Paypal checkout page does not reflect the changes."
+        }
+    ],
+    "EmailTemplates": []
+}
